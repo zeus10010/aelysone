@@ -1,0 +1,27 @@
+{
+    "vehicleData": {
+      "cornerWheels": [
+        "FR",
+        "FL",
+        "RR",
+        "RL"
+      ],
+      "mass": 1559,
+      "weightDistribution": {
+        "front": 43,
+        "rear": 57
+      },
+      "skewStiffnessFront": 280000,
+      "skewStiffnessRear": 328000,
+      "power": 1196,
+      "topSpeed": 411,
+      "driveType": "AWD",
+      "engineType": "V12 NA",
+      "gearbox": "8-Speed Automatic",
+      "aero": {
+        "downforceAt200kph": 420,
+        "dragCoefficient": 0.32
+      }
+    }
+  }
+  
